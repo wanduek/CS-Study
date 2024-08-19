@@ -1,5 +1,5 @@
 test
 
 <pre>
-hello!
+hello world!
 </pre>
