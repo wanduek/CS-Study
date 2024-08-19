@@ -5,7 +5,7 @@
 > 진행 방식 : 파트를 나눠 공부했던 내용을 설명하며 지식 공유
 <br>
 
-Commit convention ▶︎ 예시) `[Design Pattern] 싱글폰 패턴`
+Commit convention ▶︎ 예시) `[Design Pattern] 싱글톤 패턴`
 
 ---
 ## Computer Science
