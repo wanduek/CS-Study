@@ -10,7 +10,7 @@ HTTP/1.0은 Hypertext Transfer Protocol의 첫 번째 버전 중 하나로, 웹 
 ### 제한점
 - **연결의 비효율성**: 각 요청마다 새로운 연결을 설정하고 해제해야 하므로, 여러 리소스 요청 시 비효율적입니다.
 - **지속 연결(Persistent Connection)의 부재**: HTTP/1.0은 지속적인 연결을 유지하는 기능을 기본적으로 제공하지 않으며, 서버로부터 파일을 가져올 때마다 TCP의 3-웨이 핸드셰이크를 계속해서 열어야 하기 때문에 RTT가 증가하는 단점이 있습니다.
-  https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrOEgY%2FbtsJfmY6FRq%2FwAqXSLs3Xok4TflESdIPN1%2Fimg.png
+  ![img.png](img.png)
 
 ## HTTP/1.1
 HTTP/1.1은 1997년에 표준화된 버전으로, HTTP/1.0에 비해 여러 가지 중요한 개선사항을 포함하고 있습니다.
@@ -21,7 +21,7 @@ HTTP/1.1은 1997년에 표준화된 버전으로, HTTP/1.0에 비해 여러 가�
 
 - **파이프라이닝 (Pipelining)**
     - HTTP/1.1에서는 클라이언트가 서버로 다수의 요청을 동시에 보내는 것이 가능해졌습니다. 클라이언트는 첫 번째 요청에 대한 응답을 기다리지 않고 연속적으로 여러 요청을 보낼 수 있습니다.
-      https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbnjeg5%2FbtsJd2AStsG%2F6O42laoQvFc1k4wZKC8b3k%2Fimg.png
+      ![img_1.png](img_1.png)
 
 ### 문제점
 - **HOL Blocking**: 문서 안에 포함된 다수의 리소스를 처리할 때, 요청할 리소스 개수에 비례해서 대기 시간이 길어지는 단점이 있습니다.
@@ -32,10 +32,11 @@ HTTP/2는 HTTP/1.1의 한계를 극복하고 웹 성능을 개선하기 위해 2
 ### 주요 특징
 - **이진 프로토콜 (Binary Protocol)**: HTTP/2는 텍스트가 아닌 이진 형식으로 데이터를 전송합니다.
 - **멀티플렉싱 (Multiplexing)**: 단일 TCP 연결에서 여러 요청과 응답을 동시에 처리할 수 있는 기능을 지원합니다.
-  https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMwu8M%2FbtsJeCPejRq%2FG1KS6wxQkUdKVrZc8wAdbK%2Fimg.png
+ ![img_2.png](img_2.png)
+
 - **헤더 압축 (Header Compression)**: HPACK이라는 압축 방식을 사용해 전송되는 데이터 양을 줄이고 성능을 향상시킵니다.
 - **서버 푸시 (Server Push)**: 클라이언트가 요청하지 않은 리소스를 서버가 미리 클라이언트로 전송할 수 있는 기능을 제공합니다.
-  https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbF2xPM%2FbtsJfSwuRaj%2FwBXTspWQtTbTctej5UMHOK%2Fimg.png
+ ![img_3.png](img_3.png)
 
 ## HTTPS
 HTTPS는 HTTP Secure의 약자로, 웹에서 데이터를 안전하게 전송하기 위한 HTTP의 확장 버전입니다. HTTPS는 HTTP와 TLS (Transport Layer Security) 또는 SSL (Secure Sockets Layer)을 결합하여 데이터를 암호화하고 보안을 강화합니다.
@@ -58,7 +59,8 @@ HTTP/3는 TCP 대신 QUIC을 사용하는 최신 HTTP 프로토콜입니다. QUI
 
 ### 주요 특징
 - **빠른 연결 설정**: QUIC은 TLS 암호화를 포함하는 단일 연결 설정 과정을 통해 연결 설정 속도가 빠릅니다.
-  https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FTyVwm%2FbtsJdIWZYrc%2Ffk9l7kw7eibWBmVNPY6g6K%2Fimg.png
+ ![img_4.png](img_4.png)
+
 - **헤드 오브 라인 블로킹 문제 해결**: HTTP/3는 QUIC을 통해 패킷 손실이 발생해도 다른 스트림의 패킷 전송에 영향을 주지 않기 때문에 전송 효율성이 더 높습니다.
 - **향상된 보안**: HTTP/3는 TLS 1.3을 기본으로 사용하여 강력한 암호화를 제공합니다.
 - **모바일 및 무선 네트워크에 최적화**: HTTP/3는 네트워크 변동이 있는 상황에서도 안정적으로 연결을 유지할 수 있습니다.
