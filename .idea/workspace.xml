@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea2279a0-9e5a-4683-9d2e-0ee092e4be39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Memory/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/메모리 계층.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/메모리 관리_가상 메모리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/메모리 관리_메모리 할당.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/메모리 종류.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/웹 브라우저의 데이터 저장 기술.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memory/test.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +76,7 @@
       <workItem from="1724056923963" duration="3560000" />
       <workItem from="1724520809547" duration="1952000" />
       <workItem from="1724547539173" duration="3389000" />
-      <workItem from="1725118702143" duration="2405000" />
+      <workItem from="1725118702143" duration="3857000" />
     </task>
     <servers />
   </component>
