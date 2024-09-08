@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ea2279a0-9e5a-4683-9d2e-0ee092e4be39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Memory/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/img_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/img_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/메모리 계층.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/메모리 관리_가상 메모리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/메모리 관리_메모리 할당.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/메모리 종류.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Memory/웹 브라우저의 데이터 저장 기술.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opertating System/3.4.2 선점형 방식.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Memory/test.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +43,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/t2024-m0158/Desktop/CS-Study/Memory",
+    "last_opened_file_path": "/Users/t2024-m0158/Desktop/CS-Study/Opertating System",
+    "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
@@ -59,6 +54,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Opertating System" />
       <recent name="$PROJECT_DIR$/Memory" />
       <recent name="$PROJECT_DIR$/Design Patterns" />
     </key>
@@ -87,7 +83,9 @@
       <workItem from="1724056923963" duration="3560000" />
       <workItem from="1724520809547" duration="1952000" />
       <workItem from="1724547539173" duration="3389000" />
-      <workItem from="1725118702143" duration="2405000" />
+      <workItem from="1725118702143" duration="3857000" />
+      <workItem from="1725694138130" duration="1339000" />
+      <workItem from="1725754759037" duration="963000" />
     </task>
     <servers />
   </component>
