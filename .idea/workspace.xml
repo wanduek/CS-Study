@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea2279a0-9e5a-4683-9d2e-0ee092e4be39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Database/4.3.2트렌잭션_무결성.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Database/test.md" beforeDir="false" afterPath="$PROJECT_DIR$/Database/4.3.1test.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +86,7 @@
       <workItem from="1725118702143" duration="3857000" />
       <workItem from="1725694138130" duration="1339000" />
       <workItem from="1725754759037" duration="1679000" />
-      <workItem from="1726316278682" duration="1881000" />
+      <workItem from="1726316278682" duration="2947000" />
     </task>
     <servers />
   </component>
