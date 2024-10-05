@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea2279a0-9e5a-4683-9d2e-0ee092e4be39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Opertating System/운영체제 예상 면접 질문2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure/5.2.3 벡터.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/5.2.3 벡터.md" afterDir="false" />
-    </list>
+    <list default="true" id="ea2279a0-9e5a-4683-9d2e-0ee092e4be39" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +88,7 @@
       <workItem from="1726895143219" duration="722000" />
       <workItem from="1727536507088" duration="85000" />
       <workItem from="1727568265509" duration="1135000" />
-      <workItem from="1728096675827" duration="8438000" />
+      <workItem from="1728096675827" duration="8593000" />
     </task>
     <servers />
   </component>
