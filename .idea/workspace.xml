@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ea2279a0-9e5a-4683-9d2e-0ee092e4be39" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure/5.2.1 연결 리스트.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/5.2.1 연결 리스트.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure/5.2.2 배열.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/5.2.2 배열.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data Structure/5.2.3 벡터.md" beforeDir="false" afterPath="$PROJECT_DIR$/Data Structure/5.2.3 벡터.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
       <recent name="$PROJECT_DIR$/Design Patterns" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Opertating System/운영체제 예상 면접 질문" />
       <recent name="$PROJECT_DIR$/Memory/memory_png" />
       <recent name="$PROJECT_DIR$/Network/http" />
       <recent name="$PROJECT_DIR$/Network.http_png" />
@@ -92,7 +90,10 @@
       <workItem from="1726316278682" duration="2947000" />
       <workItem from="1726895143219" duration="722000" />
       <workItem from="1727536507088" duration="85000" />
-      <workItem from="1727568265509" duration="623000" />
+      <workItem from="1727568265509" duration="1135000" />
+      <workItem from="1728096675827" duration="8593000" />
+      <workItem from="1728110095696" duration="121000" />
+      <workItem from="1728179214218" duration="77000" />
     </task>
     <servers />
   </component>
