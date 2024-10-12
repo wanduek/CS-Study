@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea2279a0-9e5a-4683-9d2e-0ee092e4be39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Interview Question/네트워크.md" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Question/네트워크.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opertating System/운영체제 예상 면접 질문/운영체제 예상 면접 질문.md" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Question/운영체제 예상 면접 질문.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opertating System/운영체제 예상 면접 질문/운영체제 예상 면접 질문2.md" beforeDir="false" afterPath="$PROJECT_DIR$/Interview Question/운영체제 예상 면접 질문2.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,22 +41,24 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/t2024-m0158/Desktop/CS-Study/Database&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/t2024-m0158/Desktop/CS-Study/Interview Question",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Interview Question" />
       <recent name="$PROJECT_DIR$/Database" />
       <recent name="$PROJECT_DIR$/Opertating System" />
       <recent name="$PROJECT_DIR$/Memory" />
@@ -94,6 +100,8 @@
       <workItem from="1728096675827" duration="8593000" />
       <workItem from="1728110095696" duration="121000" />
       <workItem from="1728179214218" duration="77000" />
+      <workItem from="1728179307822" duration="1404000" />
+      <workItem from="1728729220740" duration="10463000" />
     </task>
     <servers />
   </component>
